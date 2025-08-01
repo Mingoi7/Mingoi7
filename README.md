@@ -15,7 +15,7 @@ Whether it's animating a button, crafting intuitive UI flows, or visualizing dat
 
 Here are some things I enjoy tinkering with:
 
-- 🎨 UI/UX Design with Figma & Adobe XD  
+- 🎨 UI/UX Design with Figma & Adobe AI  
 - ✨ Frontend Development with HTML, CSS, JS + React  
 - 🔄 Micro Interactions with GSAP, Framer Motion  
 - 📈 Data Visualization with D3.js, Chart.js
